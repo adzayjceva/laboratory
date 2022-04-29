@@ -88,7 +88,7 @@ header-includes:
 **3) Сохраняем отчёт в 3 форматах: docx, pdf, md.**
 
 **4) Обновляем данные на GitHub (Рис. [-@fig:005]):**
-![Рис. 5](){ #fig:005 width=70% }
+![Рис. 5](/home/adzayjceva/laboratory/2021-2022/OS/lab03/lab03-изображения/5.png){ #fig:005 width=70% }
 
 # Вывод
 
